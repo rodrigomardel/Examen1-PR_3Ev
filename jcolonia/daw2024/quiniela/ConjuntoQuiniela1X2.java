@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Vector;
 
 /**
+ * Prueba
  * Modelo: Colección básica de resultados deportivos en formato de quiniela 1X2.
  * 
  * @version 1.1 (20240502000)
